@@ -45,7 +45,7 @@ Viable Core решает проблему "бесконечных циклов" 
 
 ### Начало работы
 
-*   [Введение в Viable Core (на русском языке)](articles/ru/1-viable-core-intro.md)
+*   [Введение в Viable Core (на русском языке)](articles/ru/1-viable-core-intro-ru.md)
 
 ---
 *Viable Core: От скриптов к жизни.*
